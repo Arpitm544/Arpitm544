@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arpit Maurya (aka @Arpitm544)
+# 👋 Hi, I'm Arpit Maurya
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
@@ -40,7 +40,7 @@
 
 ## 📫 How to Reach Me
 
-- ✉️ **Email**: arpitmaurya544@gmail.com  
+- ✉️ **Email**: arpitbabu802@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/arpit-maurya-741996313/)  
 - 🔗 [**GitHub**](https://github.com/Arpitm544)  
 - 🧠 [**LeetCode**](https://leetcode.com/u/ArpitMaurya2007/)
