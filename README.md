@@ -13,19 +13,19 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js (with Vite), HTML5, CSS3, JavaScript, Material UI, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB, Mongoose
-- **DevOps**: Git, GitHub, Basic Jenkins (CI/CD), Firebase (Auth)
-- **Tools**: VS Code, Postman, Figma, Render, Netlify
+- **Frontend**: React.js (with Vite), HTML5, CSS3, JavaScript, Material UI, Tailwind CSS  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Database**: MongoDB, Mongoose  
+- **DevOps**: Git, GitHub, Basic Jenkins (CI/CD), Firebase (Auth)  
+- **Tools**: VS Code, Postman, Figma, Render, Netlify  
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔄 Advanced MERN concepts (Redux, Middleware, API Rate Limiting)
-- 🔐 Secure authentication flows (JWT, Google OAuth, Firebase)
-- 💡 Algorithms & DSA (especially Linked Lists, Recursion, Stack)
+- 🔄 Advanced MERN concepts (Redux, Middleware, API Rate Limiting)  
+- 🔐 Secure authentication flows (JWT, Google OAuth, Firebase)  
+- 💡 Algorithms & DSA (especially Linked Lists, Recursion, Stack)  
 
 ---
 
@@ -34,7 +34,7 @@
 - 🚀 Full-Stack MERN Projects  
 - 📈 Developer Tools  
 - 🧠 Open Source Projects  
-- 🛠️ Automation or Productivity Tools
+- 🛠️ Automation or Productivity Tools  
 
 ---
 
@@ -57,6 +57,7 @@ I enjoy turning complex problems into simple solutions and love the *“code →
 
 ![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitm544&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitm544&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arpitm544&theme=react&hide_border=false)
 
 ---
 
