@@ -16,7 +16,7 @@
 - **Frontend**: React.js (with Vite), HTML5, CSS3, JavaScript, Material UI, Tailwind CSS  
 - **Backend**: Node.js, Express.js, REST APIs  
 - **Database**: MongoDB, Mongoose  
-- **DevOps**: Git, GitHub, Basic Jenkins (CI/CD), Firebase (Auth)  
+- **DevOps**: Git, GitHub, Firebase (Auth)  
 - **Tools**: VS Code, Postman, Figma, Render, Netlify  
 
 ---
