@@ -4,10 +4,9 @@
 
 ## 🚀 Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner
 
-- 🎓 1st Year CS Undergrad at **Polaris School of Technology, Medhavi Skill University**
+- 🎓 2nd Year CS Undergrad at **Polaris School of Technology**
 - 💻 Focused on building modern full-stack web applications using the **MERN Stack**
 - 🔐 Exploring **DevOps**, **Authentication**, and **Workflow Automation**
-- 🌐 Passionate about **Web Development**, **Cybersecurity**, and **Crypto Technologies**
 
 ---
 
